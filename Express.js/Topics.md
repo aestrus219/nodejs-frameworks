@@ -36,9 +36,8 @@
 - API Reference
 
   - Application
-- Request
+  - Request
   - Response
-- Utilities
 - Advanced Topics
   - Router
   - Middleware
