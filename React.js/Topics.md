@@ -21,7 +21,7 @@
 * Functional Components
 * Hooks
 
-##  State
+## State
 
 * Managing State
 * Updating State
@@ -63,7 +63,7 @@
 * Lazy Loading
 * Code Splitting
 
-## Debugging
+##  Debugging
 
 * Debugging React Applications
 * Logging
